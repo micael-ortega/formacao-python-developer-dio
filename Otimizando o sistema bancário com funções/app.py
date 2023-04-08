@@ -48,7 +48,7 @@ def depositar(saldo, valor, extrato, /):
 
 
 def sacar(*, saldo, valor, extrato, limite, numero_saques, limite_saques):
-    # Criadas as regras de saque nas condicionais para saldo_insuficiente, saques_diarios e limite_saque
+    # Criadas as regras de saque nas condicionais para excedeu_saldo, excedeu_limite e excedeu_saques
     excedeu_saldo = valor > saldo
     excedeu_limite = valor > limite
     excedeu_saques = numero_saques >= limite_saques
