@@ -4,8 +4,8 @@ Este repositório contém as soluções dos desafios de código propostos no cur
 ## Desafios de Código
 ### Módulo Fundamentos de Python
 
-*[Criando um sistema bancário com python](https://github.com/micael-ortega/formacao-python-developer-dio/tree/main/Criando%20um%20sistema%20banc%C3%A1rio%20com%20python)
+* [Criando um sistema bancário com python](https://github.com/micael-ortega/formacao-python-developer-dio/tree/main/Criando%20um%20sistema%20banc%C3%A1rio%20com%20python)
 
 ### Módulo Estruturas de Dados com Python
 
-[Otimizando o sistema bancário com funções](https://github.com/micael-ortega/formacao-python-developer-dio/tree/main/Otimizando%20o%20sistema%20banc%C3%A1rio%20com%20fun%C3%A7%C3%B5es)
+* [Otimizando o sistema bancário com funções](https://github.com/micael-ortega/formacao-python-developer-dio/tree/main/Otimizando%20o%20sistema%20banc%C3%A1rio%20com%20fun%C3%A7%C3%B5es)
