@@ -9,3 +9,7 @@ Este repositório contém as soluções dos desafios de código propostos no cur
 ### Módulo Estruturas de Dados com Python
 
 * [Otimizando o sistema bancário com funções](https://github.com/micael-ortega/formacao-python-developer-dio/tree/main/Otimizando%20o%20sistema%20banc%C3%A1rio%20com%20fun%C3%A7%C3%B5es)
+
+### Módulo Programação Orientada a Objeto com Python
+
+* [Modelando o sistema bancário com classes](https://github.com/micael-ortega/formacao-python-developer-dio/tree/main/Modelando%20o%20sistema%20banc%C3%A1rio%20com%20classes) 
