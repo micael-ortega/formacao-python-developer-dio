@@ -18,4 +18,4 @@ Este repositório contém as soluções dos desafios de código propostos no cur
 
 ### Módulo Integrando Python com Databases
 
-* [Integrando Python com SQLAlchemy e MongoDB](https://github.com/micael-ortega/formacao-python-developer-dio/tree/main/Integrando%20o%20Python%20com%20SQLAlchemy%20e%20mongoDB)
+* [Integrando Python com SQLAlchemy e MongoDB](https://github.com/micael-ortega/formacao-python-developer-dio/tree/main/Integrando%20Python%20com%20SQLAlchemy%20e%20mongoDB)
